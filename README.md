@@ -1,5 +1,3 @@
 # MyBlog
 
-从零搭建的个人网站
-
-www.river.ac.cn
+从零尝试搭建的个人网站
